@@ -7,11 +7,12 @@
 
 import SwiftUI
 
+
 @main
 struct capston2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView2()
         }
     }
 }
